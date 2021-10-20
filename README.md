@@ -2,9 +2,13 @@
 Repository for CS50W Projects
 
 
-Project | Description | Source | Video
+Project | Description | Video
 --------|------|--------|-------
-1 - Wiki | Design  a Wikipedia-like online encyclopedia | a | https://youtu.be/yBeM9_qlnJs
+Project 1 - Wiki | Design  a Wikipedia-like online encyclopedia | https://youtu.be/yBeM9_qlnJs
+Project 2 - Commerce | Design an eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.” | https://youtu.be/h-OK9O5nWro
+
+
+
 ## 5. Songs
 An online database to find/store/edit songs, and sort them into song books.
 
