@@ -1,3 +1,8 @@
+[submodule "commerce"]
+	path = commerce
+	url = https://github.com/jermin2/cs50w-commerce.git
+
 [submodule "network"]
 	path = network
 	url = https://github.com/jermin2/cs50w-network.git
+
