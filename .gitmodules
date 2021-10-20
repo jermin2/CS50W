@@ -10,3 +10,6 @@
 	path = network
 	url = https://github.com/jermin2/cs50w-network.git
 
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/jermin2/cs50W-wiki.git
