@@ -4,7 +4,8 @@ Repository for CS50W Projects
 
 Project | Name | Source | Video
 --------|------|--------|-------
-1 | Wiki | a | https://youtu.be/yBeM9_qlnJs
+1 | ## Wiki 
+Design  a Wikipedia-like online encyclopedia | a | https://youtu.be/yBeM9_qlnJs
 ## 5. Songs
 An online database to find/store/edit songs, and sort them into song books.
 
