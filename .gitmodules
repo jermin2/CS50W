@@ -13,3 +13,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/jermin2/cs50W-wiki.git
+[submodule "songs"]
+	path = songs
+	url = https://github.com/jermin2/songs.git
