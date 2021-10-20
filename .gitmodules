@@ -1,0 +1,3 @@
+[submodule "cs50W-mail"]
+	path = cs50W-mail
+	url = https://github.com/jermin2/cs50W-mail.git
