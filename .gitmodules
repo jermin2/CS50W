@@ -1,0 +1,3 @@
+[submodule "commerce"]
+	path = commerce
+	url = https://github.com/jermin2/cs50w-commerce.git
